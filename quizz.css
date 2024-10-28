@@ -1,0 +1,17 @@
+label {display: flex;
+    margin: 20px;
+}
+.question {background-color: antiquewhite;
+    border-radius: 40px;
+    padding: 20px;
+    margin: 10px;
+}
+.boutton {display: flex;
+    justify-content: center;
+    padding: 20px;
+    align-items: center;
+}
+#btn {background-color: aquamarine;
+    padding: 20px;
+    border-radius: 20px;
+}
